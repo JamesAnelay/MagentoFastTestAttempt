@@ -5,6 +5,8 @@ namespace JamesAnelay\DisableFailedPaymentEmail\Controller\Index;
 
 class Index extends \Magento\Framework\App\Action\Action
 {
+    /*This file was just used to check that the plugins don't are about param types*/
+
     protected $title;
 
     public function execute()

@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace JamesAnelay\DisableFailedPaymentEmail\Plugin;
+namespace JamesAnelay\DisableFailedPaymentEmail\Stubs;
 
 class CallableStub
 {

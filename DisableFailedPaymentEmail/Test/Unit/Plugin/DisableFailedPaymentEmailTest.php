@@ -3,8 +3,8 @@ declare(strict_types=1);
 
 namespace JamesAnelay\DisableFailedPaymentEmail\Test\Unit\Plugin;
 
-use JamesAnelay\DisableFailedPaymentEmail\Plugin\CallableStub;
-use JamesAnelay\DisableFailedPaymentEmail\Plugin\ConfigStub;
+use JamesAnelay\DisableFailedPaymentEmail\Stubs\CallableStub;
+use JamesAnelay\DisableFailedPaymentEmail\Stubs\ConfigStub;
 use JamesAnelay\DisableFailedPaymentEmail\Plugin\DisableFailedPaymentEmail;
 use JamesAnelay\DisableFailedPaymentEmail\Stubs\UnimportantStub;
 use PHPUnit\Framework\TestCase;
