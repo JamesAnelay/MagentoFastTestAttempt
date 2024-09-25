@@ -1,0 +1,5 @@
+<config>
+    <type name="JamesAnelay\DisableFailedPaymentEmail\Controller\Index\Index">
+        <plugin name="jamesanelay_disablefailedpaymentemail_plugin" type="JamesAnelay\DisableFailedPaymentEmail\Plugin\DisableFailedPaymentEmail" sortOrder="10" />
+    </type>
+</config>
